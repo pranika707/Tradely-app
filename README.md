@@ -44,7 +44,7 @@ Learn important trading concepts including:
 - Candlestick concept
 - Tips and Strategies 
 
-### 📊 Progress Analytics
+### Progress Analytics
 - Track learning milestones
 - Monitor completed lessons
 - Measure improvement over time
@@ -52,7 +52,7 @@ Learn important trading concepts including:
 
 ---
 
-## 🛠 Technology Stack
+## Technology Stack
 
 Tradely is built using modern web technologies:
 
